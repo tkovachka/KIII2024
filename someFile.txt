@@ -1,1 +1,2 @@
 Contents of some file.
+Adding some content to this file.
