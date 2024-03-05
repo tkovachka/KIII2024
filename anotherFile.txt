@@ -1,0 +1,2 @@
+Contents of another file.
+Some more content here.
