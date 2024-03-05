@@ -1,2 +1,2 @@
 Contents of another file.
-Some more content here.
+Adding new content in this line.
